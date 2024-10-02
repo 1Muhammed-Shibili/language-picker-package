@@ -17,9 +17,9 @@ class LanguagePickerState extends State<LanguagePicker> {
   @override
   Widget build(BuildContext context) {
     return DropdownButton<Language>(
-      hint: Text('Select Language'),
+      hint: const Text('Select Language'),
       value: _selectedLanguage,
-      icon: Icon(Icons.arrow_drop_down),
+      icon: const Icon(Icons.arrow_drop_down),
       onChanged: (Language? newLanguage) {
         setState(() {
           _selectedLanguage = newLanguage;
@@ -34,7 +34,7 @@ class LanguagePickerState extends State<LanguagePicker> {
           child: Row(
             children: [
               Text(language.flagEmoji),
-              SizedBox(width: 10),
+              const SizedBox(width: 10),
               Text(language.name),
             ],
           ),
