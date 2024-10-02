@@ -1,8 +1,7 @@
 name: language_picker_with_country_flag
 description: "A Flutter package for selecting languages with country flags."
 version: 0.0.1
-author: Muhammed Shibili <1muhammedshibili@gmail.com>
-homepage:
+homepage: https://github.com/1Muhammed-Shibili/language-picker-package
 
 environment:
   sdk: ^3.5.3
