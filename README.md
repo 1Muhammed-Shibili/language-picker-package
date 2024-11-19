@@ -1,5 +1,7 @@
 # Language Picker with Country Flags
 
+![Screenshot 2024-11-20 001602](https://github.com/user-attachments/assets/9b6089b1-5e3f-4cb7-9c12-d7169105dcfa)
+
 [![Pub Version](https://img.shields.io/pub/v/language_picker_with_country_flag.svg)](https://pub.dev/packages/language_picker_with_country_flag)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
